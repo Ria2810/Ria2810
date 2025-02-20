@@ -97,7 +97,7 @@ I thrive on working on projects that merge AI, ML, and data analytics to create 
 - **Database Management**: MySQL, Postgres  
 - **Data Analysis Tools**: Excel, Power Query  
 - **Soft Skills**: Team Leadership, Research, Technical Writing, Collaboration  
-- **Other Technical Proficiencies**: NLP, Generative AI (Transformers, RAG, LLAMA, Groq), Prompt Engineering, Agentic AI
+- **Other Technical Proficiencies**: NLP, Generative AI (Transformers, RAG, LLAMA, Groq), Prompt Engineering, Agentic AI)
 
 ---
 
