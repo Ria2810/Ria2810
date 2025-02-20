@@ -75,41 +75,23 @@ I thrive on working on projects that merge AI, ML, and data analytics to create 
 
 ## Tech Stack & Tools 🛠️
 
-### Languages & Frameworks
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)](https://www.python.org/)  
-[![R](https://img.shields.io/badge/R-4.0+-blue?style=flat&logo=r)](https://www.r-project.org/)  
-[![SQL](https://img.shields.io/badge/SQL-Standard-blue?style=flat&logo=mysql)](https://www.mysql.com/)  
-[![C/C++](https://img.shields.io/badge/C/C++-informational?style=flat&logo=cplusplus)](https://isocpp.org/)  
-[![HTML/CSS](https://img.shields.io/badge/HTML5-CSS3-orange?style=flat&logo=html5)](https://www.w3.org/)
+### Languages & Frameworks  
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)](https://www.python.org/) [![R](https://img.shields.io/badge/R-4.0+-blue?style=flat&logo=r)](https://www.r-project.org/) [![SQL](https://img.shields.io/badge/SQL-Standard-blue?style=flat&logo=mysql)](https://www.mysql.com/) [![C/C++](https://img.shields.io/badge/C/C++-informational?style=flat&logo=cplusplus)](https://isocpp.org/) [![HTML/CSS](https://img.shields.io/badge/HTML5-CSS3-orange?style=flat&logo=html5)](https://www.w3.org/)
 
-### Machine Learning & Deep Learning
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+### Machine Learning & Deep Learning  
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-### Data Visualization & Analytics
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)  
-[![PowerBI](https://img.shields.io/badge/PowerBI-CC2B5E?style=flat&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
-[![Seaborn](https://img.shields.io/badge/Seaborn-95BF47?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+### Data Visualization & Analytics  
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) [![PowerBI](https://img.shields.io/badge/PowerBI-CC2B5E?style=flat&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-95BF47?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
-### Cloud & Deployment
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)  
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
+### Cloud & Deployment  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
 
-### LLMs & Generative AI
-[![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-blue?style=flat&logo=openai&logoColor=white)](https://openai.com/)  
-[![LangChain](https://img.shields.io/badge/LangChain-LLMs-blue?style=flat&logo=python&logoColor=white)](https://python.langchain.com/)  
-[![LangGraph](https://img.shields.io/badge/LangGraph-AgenticAI-blue?style=flat)](https://github.com/langgraph/langgraph)  
-[![CrewAI](https://img.shields.io/badge/CrewAI-GenerativeAI-blue?style=flat)](https://crew.ai/)  
-[![LangFlow](https://img.shields.io/badge/LangFlow-OpenAI-blue?style=flat)](https://github.com/logspace-ai/langflow)
+### LLMs & Generative AI  
+[![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-blue?style=flat&logo=openai&logoColor=white)](https://openai.com/) [![LangChain](https://img.shields.io/badge/LangChain-LLMs-blue?style=flat&logo=python&logoColor=white)](https://python.langchain.com/) [![LangGraph](https://img.shields.io/badge/LangGraph-AgenticAI-blue?style=flat)](https://github.com/langgraph/langgraph) [![CrewAI](https://img.shields.io/badge/CrewAI-GenerativeAI-blue?style=flat)](https://crew.ai/) [![LangFlow](https://img.shields.io/badge/LangFlow-OpenAI-blue?style=flat)](https://github.com/logspace-ai/langflow)
 
-### Others
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  
-[![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+### Others  
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### Additional Skills (No Badges)
 - **Database Management**: MySQL, Postgres  
