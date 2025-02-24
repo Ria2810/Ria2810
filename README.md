@@ -21,8 +21,9 @@ I'm driven by curiosity, innovation, and a commitment to using data to solve cha
 
 ## Work Highlights & Experience 💼
 
-### AI Developer, CarXstream India  
+### [AI Developer, CarXstream India](https://github.com/Ria2810/carxstream-ai-agent)
 *Remote | Jun 2024 - Jan 2025*  
+
 - **Agentic Model Design**: Designed and implemented multilingual AI-powered agentic models to automate complex car buying/selling processes, including price comparisons, deal making, and loan processing.  
 - **Multi-Agent Systems**: Developed robust multi-agent systems using LangChain and ElasticSearch, reducing data processing time by **40%** and enhancing location-specific price comparisons.  
 - **Scalable Price Optimization**: Engineered a price optimization system using **AWS SageMaker AutoPilot** with hyperparameter tuning and real-time predictions—boosting recommendation accuracy by **25%**.  
